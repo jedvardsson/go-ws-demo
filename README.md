@@ -3,7 +3,7 @@
 ```bash
 go get -d github.com/jedvardsson/go-ws-demo
 cd $GOPATH/src/github.com/jedvardsson/go-ws-demo
-dep update
+dep ensure
 ```
 
 # Run Tests
