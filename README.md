@@ -6,6 +6,9 @@ cd $GOPATH/src/github.com/jedvardsson/go-ws-demo
 dep ensure
 ```
 
+# MySQL/MariaDB
+User root with no password. A database ``test``
+
 # Run Tests
 ```
 go test
