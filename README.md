@@ -1,7 +1,7 @@
 # Install
 
 ```bash
-go get github.com/jedvardsson/go-ws-demo
+go get -d github.com/jedvardsson/go-ws-demo
 cd $GOPATH/src/github.com/jedvardsson/go-ws-demo
 dep update
 ```
